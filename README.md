@@ -1,7 +1,7 @@
-[Sublime Text PrestaShop Snippets](https://github.com/PrestaEdit/sublime-prestashop/)
+[Sublime Text PrestaShop Autocomplete](https://github.com/PrestaEdit/sublime-prestashop/)
 ========================================
 
-PrestaShop snippets for [Sublime Text](http://sublimetext.com) editor.
+PrestaShop Autocomplete for [Sublime Text](http://sublimetext.com) editor.
 
 ## Installation
 *1.*  Clone the repository into your packages folder.
