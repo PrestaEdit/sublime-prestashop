@@ -1,0 +1,11 @@
+{
+   "scope": "source.php - variable.other.php",
+
+   "completions":
+   [
+      "php",
+
+      { "trigger": "Tools::passwdGen", 			"contents": "Tools::passwdGen(${1:lenght = 8},${2:flag = 'ALPHANUMERIC'});$0" },
+      { "trigger": "Tools::redirectLink", 		"contents": "Tools::redirectLink(${1:url});$0" },
+   ]
+}
