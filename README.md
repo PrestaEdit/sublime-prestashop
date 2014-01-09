@@ -10,6 +10,9 @@ PrestaShop Autocomplete for [Sublime Text](http://sublimetext.com) editor.
 
 *2.*  Download the [.zip](http://github.com/prestaedit/sublime-prestashop/release/master) file and unzip it into your ST2/3 packages directory.
 
+## Snippets
+*1.* Add PrestaShop license into PHP Files with the presta-license text.
+
 ## License
 License: MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
 
