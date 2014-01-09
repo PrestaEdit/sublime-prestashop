@@ -12,6 +12,7 @@ PrestaShop Autocomplete for [Sublime Text](http://sublimetext.com) editor.
 
 ## Snippets
 * Add PrestaShop license into PHP Files with the presta-license text.
+* Add PrestaShop license into JS  Files with the presta-license text.
 
 ## License
 License: MIT [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
