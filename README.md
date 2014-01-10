@@ -19,3 +19,6 @@ License: MIT [http://www.opensource.org/licenses/mit-license.php](http://www.ope
 
 ## Author
 Twitter: [PrestaEdit](http://twitter.com/PrestaEdit) | GitHub: [PrestaEdit](http://github.com/PrestaEdit)
+
+## Contributors
+[kgranger](http://github.com/kgranger)
