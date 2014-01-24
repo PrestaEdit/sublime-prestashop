@@ -1,0 +1,29 @@
+<snippet>
+    <content><![CDATA[
+class $1 extends Module
+{
+    public function __construct()
+    {
+        \$this->name = '$2';
+        \$this->tab = 'front_offices_features';
+        \$this->version = 0.1;
+        \$this->author = '$3';
+
+        parent::__construct();
+
+        \$this->displayName = \$this->l('$4');
+        \$this->description = \$this->l('$5');
+    }
+
+    public function install()
+    {
+        if (!parent::install())
+            return false;
+        return true;
+    }
+}
+]]></content>
+    <tabTrigger>presta-module</tabTrigger>
+    <scope>source.php</scope>
+    <description>Prestashop (1.5) Module</description>
+</snippet>
